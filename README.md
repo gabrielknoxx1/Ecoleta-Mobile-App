@@ -8,11 +8,11 @@ Ecoleta - NLW 1.0 Booster
 
 
 ## Preview
-<img src="/mobile-app/src/assets/Home.jpeg" />
+<img src="/src/assets/Home.jpeg" />
 
-<img src="/mobile-app/src/assets/DashPVW.jpeg" />
+<img src="/src/assets/DashPVW.jpeg" />
 
-<img src="/mobile-app/src/assets/Datail.jpeg" />
+<img src="/src/assets/Datail.jpeg" />
 
 ## Tecnologias
 
